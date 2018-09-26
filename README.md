@@ -1,4 +1,6 @@
-This repository contains scripts for the paper Durvasula and Fulgione et al 2017. "African genomes illuminate the early history and transition to selfing in Arabidopsis thaliana".
+This repository contains scripts for the paper: 
+
+Durvasula*, A., Fulgione*, A., Gutaker, R. M., Alacakaptan, S. I., Flood, P. J., Neto, C., Tsuchimatsu T., Burbano H.A., Picó F.X., Alonso-Blanco, C., Hancock, A. M. (2017). African genomes illuminate the early history and transition to selfing in Arabidopsis thaliana. Proceedings of the National Academy of Sciences of the United States of America, 114(20), 5213–5218. http://doi.org/10.1073/pnas.1616736114
 
 The analyses are based on a VCF file that contains genotype calls through the SHORE pipeline for all 1001 genomes individuals and the new individuals included with this paper.
 
